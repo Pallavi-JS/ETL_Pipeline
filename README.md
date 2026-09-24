@@ -82,3 +82,6 @@ pytest --cov=src --cov-report=term-missing
   suite is fast and works offline.
 - `output/users.csv` is generated when you actually run `main.py`, not
   during testing.
+
+## Output 
+ ![ETL Output](screenshots/etl_output.png) 
