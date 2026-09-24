@@ -84,4 +84,4 @@ pytest --cov=src --cov-report=term-missing
   during testing.
 
 ## Output 
- ![ETL Output](screenshots/etl_output.png) 
+ ![ETL Output](etl_output.png) 
